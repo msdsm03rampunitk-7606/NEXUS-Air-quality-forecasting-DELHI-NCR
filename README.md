@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 NEXUS is a state-of-the-art deep learning architecture designed for efficient and accurate spatiotemporal air quality forecasting. Developed specifically for the Delhi NCR region, it achieves superior predictive performance while using 94% fewer parameters than existing transformer-based models.
 
@@ -22,7 +22,7 @@ NEXUS is a state-of-the-art deep learning architecture designed for efficient an
 
 ---
 
-## 📊 Architecture
+## Architecture
 
 ![NEXUS Architecture](imgn_1.png)
 
@@ -34,7 +34,7 @@ NEXUS integrates:
 
 ---
 
-## 🎯 Performance Comparison
+## Performance Comparison
 
 | Model | Parameters | Avg R² | Avg RMSE | Training Time |
 |-------|-----------|--------|----------|---------------|
@@ -47,7 +47,7 @@ NEXUS integrates:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### Temporal Patterns
 ![Temporal Evolution](imgoo_2.png)
@@ -75,7 +75,7 @@ NEXUS integrates:
 
 ---
 
-## 🔬 Dataset
+## Dataset
 
 **Domain**: Delhi NCR (28.2°N–28.95°N, 76.85°E–77.6°E)  
 **Period**: January 2018 – December 2021 (4 years)  
@@ -87,7 +87,7 @@ NEXUS integrates:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Open in Google Colab
 The complete implementation is available in our interactive notebook:
@@ -102,7 +102,7 @@ The complete implementation is available in our interactive notebook:
 
 ---
 
-## 🧪 Ablation Study
+## Ablation Study
 
 | Configuration | Avg R² | ΔR² | Parameters |
 |--------------|--------|-----|------------|
@@ -117,7 +117,7 @@ The complete implementation is available in our interactive notebook:
 
 ---
 
-## 🎓 Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -133,7 +133,7 @@ If you use this work, please cite:
 
 ---
 
-## 📝 Key Contributions
+## Key Contributions
 
 1. **Architectural Innovation**: 94% parameter reduction vs. FEDformer with 6.95% accuracy improvement
 2. **Joint Multi-Pollutant Forecasting**: Exploits shared meteorological drivers and inter-species correlations
@@ -142,7 +142,7 @@ If you use this work, please cite:
 
 ---
 
-## 🌍 Impact
+## Impact
 
 **Public Health**: Enables advance warnings for vulnerable populations during pollution episodes  
 **Policy Support**: Identifies critical meteorological thresholds and emission hotspots  
@@ -151,7 +151,7 @@ If you use this work, please cite:
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Rampunit Kumar** - msdsm03rampunitk@iimidr.ac.in  
 **Aditya Maheshwari** - adityam@iimidr.ac.in
@@ -161,18 +161,3 @@ If you use this work, please cite:
 
 ---
 
-## 📄 License
-
-This project is part of academic research. For commercial use or collaborations, please contact the authors.
-
----
-
-## 🙏 Acknowledgments
-
-- European Centre for Medium-Range Weather Forecasts (ECMWF) for ERA5 reanalysis data
-- Copernicus Atmosphere Monitoring Service (CAMS) for pollutant observations
-- IIM Indore for computational resources
-
----
-
-**⭐ Star this repository if you find it useful!**
